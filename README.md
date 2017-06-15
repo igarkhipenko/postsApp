@@ -2,8 +2,8 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone [path]
-> cd [path]
+> git clone [path to this repository]
+> cd postsApp
 > npm install
 > npm start
 ```
